@@ -1,0 +1,122 @@
+[
+  {
+    "id": "PR01",
+    "name": "TrailRunner X200 Running Shoe",
+    "category": "Footwear",
+    "weightKg": 0.8
+  },
+  {
+    "id": "PR02",
+    "name": "UrbanStride Low Sneaker",
+    "category": "Footwear",
+    "weightKg": 0.7
+  },
+  {
+    "id": "PR03",
+    "name": "SprintFlex Racer Shoe",
+    "category": "Footwear",
+    "weightKg": 0.75
+  },
+  {
+    "id": "PR04",
+    "name": "AeroFit Running Jacket",
+    "category": "Apparel",
+    "weightKg": 0.4
+  },
+  {
+    "id": "PR05",
+    "name": "FlexTech Compression Tights",
+    "category": "Apparel",
+    "weightKg": 0.25
+  },
+  {
+    "id": "PR06",
+    "name": "ThermoLayer Base Tee",
+    "category": "Apparel",
+    "weightKg": 0.15
+  },
+  {
+    "id": "PR07",
+    "name": "TrailPack 20L Backpack",
+    "category": "Accessories",
+    "weightKg": 0.9
+  },
+  {
+    "id": "PR08",
+    "name": "GripFit Training Gloves",
+    "category": "Accessories",
+    "weightKg": 0.1
+  },
+  {
+    "id": "PR09",
+    "name": "SolarCap Sports Cap",
+    "category": "Accessories",
+    "weightKg": 0.08
+  },
+  {
+    "id": "PR10",
+    "name": "HydroFlow 1L Bottle",
+    "category": "Accessories",
+    "weightKg": 0.3
+  },
+  {
+    "id": "PR11",
+    "name": "BaseCamp Tent 2P",
+    "category": "Outdoor Gear",
+    "weightKg": 3.5
+  },
+  {
+    "id": "PR12",
+    "name": "TrailBlazer Trekking Poles",
+    "category": "Outdoor Gear",
+    "weightKg": 0.6
+  },
+  {
+    "id": "PR13",
+    "name": "NorthPeak Sleeping Bag",
+    "category": "Outdoor Gear",
+    "weightKg": 1.8
+  },
+  {
+    "id": "PR14",
+    "name": "ZenithWear Running Watch",
+    "category": "Electronics",
+    "weightKg": 0.09
+  },
+  {
+    "id": "PR15",
+    "name": "CoreFit Wireless Earbuds",
+    "category": "Electronics",
+    "weightKg": 0.05
+  },
+  {
+    "id": "PR16",
+    "name": "PacePro Heart Rate Monitor",
+    "category": "Electronics",
+    "weightKg": 0.06
+  },
+  {
+    "id": "PR17",
+    "name": "StrideMax Trail Shoe",
+    "category": "Footwear",
+    "weightKg": 0.85
+  },
+  {
+    "id": "PR18",
+    "name": "RapidTread Marathon Shoe",
+    "category": "Footwear",
+    "weightKg": 0.7
+  },
+  {
+    "id": "PR19",
+    "name": "AeroFit Windbreaker",
+    "category": "Apparel",
+    "weightKg": 0.35
+  },
+  {
+    "id": "PR20",
+    "name": "TrailPack Hydration Vest",
+    "category": "Accessories",
+    "weightKg": 0.5
+  }
+]

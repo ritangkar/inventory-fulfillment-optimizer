@@ -1,0 +1,602 @@
+[
+  {
+    "warehouseId": "W01",
+    "productId": "PR01",
+    "unitsAvailable": 0
+  },
+  {
+    "warehouseId": "W01",
+    "productId": "PR02",
+    "unitsAvailable": 0
+  },
+  {
+    "warehouseId": "W01",
+    "productId": "PR03",
+    "unitsAvailable": 41
+  },
+  {
+    "warehouseId": "W01",
+    "productId": "PR04",
+    "unitsAvailable": 0
+  },
+  {
+    "warehouseId": "W01",
+    "productId": "PR05",
+    "unitsAvailable": 54
+  },
+  {
+    "warehouseId": "W01",
+    "productId": "PR06",
+    "unitsAvailable": 45
+  },
+  {
+    "warehouseId": "W01",
+    "productId": "PR07",
+    "unitsAvailable": 55
+  },
+  {
+    "warehouseId": "W01",
+    "productId": "PR08",
+    "unitsAvailable": 38
+  },
+  {
+    "warehouseId": "W01",
+    "productId": "PR09",
+    "unitsAvailable": 10
+  },
+  {
+    "warehouseId": "W01",
+    "productId": "PR10",
+    "unitsAvailable": 15
+  },
+  {
+    "warehouseId": "W01",
+    "productId": "PR11",
+    "unitsAvailable": 0
+  },
+  {
+    "warehouseId": "W01",
+    "productId": "PR12",
+    "unitsAvailable": 14
+  },
+  {
+    "warehouseId": "W01",
+    "productId": "PR13",
+    "unitsAvailable": 41
+  },
+  {
+    "warehouseId": "W01",
+    "productId": "PR14",
+    "unitsAvailable": 18
+  },
+  {
+    "warehouseId": "W01",
+    "productId": "PR15",
+    "unitsAvailable": 51
+  },
+  {
+    "warehouseId": "W01",
+    "productId": "PR16",
+    "unitsAvailable": 20
+  },
+  {
+    "warehouseId": "W01",
+    "productId": "PR17",
+    "unitsAvailable": 45
+  },
+  {
+    "warehouseId": "W01",
+    "productId": "PR18",
+    "unitsAvailable": 35
+  },
+  {
+    "warehouseId": "W01",
+    "productId": "PR19",
+    "unitsAvailable": 13
+  },
+  {
+    "warehouseId": "W01",
+    "productId": "PR20",
+    "unitsAvailable": 18
+  },
+  {
+    "warehouseId": "W02",
+    "productId": "PR01",
+    "unitsAvailable": 13
+  },
+  {
+    "warehouseId": "W02",
+    "productId": "PR02",
+    "unitsAvailable": 19
+  },
+  {
+    "warehouseId": "W02",
+    "productId": "PR03",
+    "unitsAvailable": 6
+  },
+  {
+    "warehouseId": "W02",
+    "productId": "PR04",
+    "unitsAvailable": 0
+  },
+  {
+    "warehouseId": "W02",
+    "productId": "PR05",
+    "unitsAvailable": 18
+  },
+  {
+    "warehouseId": "W02",
+    "productId": "PR06",
+    "unitsAvailable": 5
+  },
+  {
+    "warehouseId": "W02",
+    "productId": "PR07",
+    "unitsAvailable": 0
+  },
+  {
+    "warehouseId": "W02",
+    "productId": "PR08",
+    "unitsAvailable": 13
+  },
+  {
+    "warehouseId": "W02",
+    "productId": "PR09",
+    "unitsAvailable": 11
+  },
+  {
+    "warehouseId": "W02",
+    "productId": "PR10",
+    "unitsAvailable": 58
+  },
+  {
+    "warehouseId": "W02",
+    "productId": "PR11",
+    "unitsAvailable": 35
+  },
+  {
+    "warehouseId": "W02",
+    "productId": "PR12",
+    "unitsAvailable": 4
+  },
+  {
+    "warehouseId": "W02",
+    "productId": "PR13",
+    "unitsAvailable": 42
+  },
+  {
+    "warehouseId": "W02",
+    "productId": "PR14",
+    "unitsAvailable": 0
+  },
+  {
+    "warehouseId": "W02",
+    "productId": "PR15",
+    "unitsAvailable": 0
+  },
+  {
+    "warehouseId": "W02",
+    "productId": "PR16",
+    "unitsAvailable": 60
+  },
+  {
+    "warehouseId": "W02",
+    "productId": "PR17",
+    "unitsAvailable": 10
+  },
+  {
+    "warehouseId": "W02",
+    "productId": "PR18",
+    "unitsAvailable": 54
+  },
+  {
+    "warehouseId": "W02",
+    "productId": "PR19",
+    "unitsAvailable": 31
+  },
+  {
+    "warehouseId": "W02",
+    "productId": "PR20",
+    "unitsAvailable": 30
+  },
+  {
+    "warehouseId": "W03",
+    "productId": "PR01",
+    "unitsAvailable": 0
+  },
+  {
+    "warehouseId": "W03",
+    "productId": "PR02",
+    "unitsAvailable": 51
+  },
+  {
+    "warehouseId": "W03",
+    "productId": "PR03",
+    "unitsAvailable": 43
+  },
+  {
+    "warehouseId": "W03",
+    "productId": "PR04",
+    "unitsAvailable": 26
+  },
+  {
+    "warehouseId": "W03",
+    "productId": "PR05",
+    "unitsAvailable": 3
+  },
+  {
+    "warehouseId": "W03",
+    "productId": "PR06",
+    "unitsAvailable": 49
+  },
+  {
+    "warehouseId": "W03",
+    "productId": "PR07",
+    "unitsAvailable": 26
+  },
+  {
+    "warehouseId": "W03",
+    "productId": "PR08",
+    "unitsAvailable": 35
+  },
+  {
+    "warehouseId": "W03",
+    "productId": "PR09",
+    "unitsAvailable": 34
+  },
+  {
+    "warehouseId": "W03",
+    "productId": "PR10",
+    "unitsAvailable": 3
+  },
+  {
+    "warehouseId": "W03",
+    "productId": "PR11",
+    "unitsAvailable": 57
+  },
+  {
+    "warehouseId": "W03",
+    "productId": "PR12",
+    "unitsAvailable": 23
+  },
+  {
+    "warehouseId": "W03",
+    "productId": "PR13",
+    "unitsAvailable": 30
+  },
+  {
+    "warehouseId": "W03",
+    "productId": "PR14",
+    "unitsAvailable": 51
+  },
+  {
+    "warehouseId": "W03",
+    "productId": "PR15",
+    "unitsAvailable": 0
+  },
+  {
+    "warehouseId": "W03",
+    "productId": "PR16",
+    "unitsAvailable": 17
+  },
+  {
+    "warehouseId": "W03",
+    "productId": "PR17",
+    "unitsAvailable": 22
+  },
+  {
+    "warehouseId": "W03",
+    "productId": "PR18",
+    "unitsAvailable": 20
+  },
+  {
+    "warehouseId": "W03",
+    "productId": "PR19",
+    "unitsAvailable": 32
+  },
+  {
+    "warehouseId": "W03",
+    "productId": "PR20",
+    "unitsAvailable": 0
+  },
+  {
+    "warehouseId": "W04",
+    "productId": "PR01",
+    "unitsAvailable": 48
+  },
+  {
+    "warehouseId": "W04",
+    "productId": "PR02",
+    "unitsAvailable": 44
+  },
+  {
+    "warehouseId": "W04",
+    "productId": "PR03",
+    "unitsAvailable": 24
+  },
+  {
+    "warehouseId": "W04",
+    "productId": "PR04",
+    "unitsAvailable": 25
+  },
+  {
+    "warehouseId": "W04",
+    "productId": "PR05",
+    "unitsAvailable": 17
+  },
+  {
+    "warehouseId": "W04",
+    "productId": "PR06",
+    "unitsAvailable": 34
+  },
+  {
+    "warehouseId": "W04",
+    "productId": "PR07",
+    "unitsAvailable": 0
+  },
+  {
+    "warehouseId": "W04",
+    "productId": "PR08",
+    "unitsAvailable": 20
+  },
+  {
+    "warehouseId": "W04",
+    "productId": "PR09",
+    "unitsAvailable": 10
+  },
+  {
+    "warehouseId": "W04",
+    "productId": "PR10",
+    "unitsAvailable": 56
+  },
+  {
+    "warehouseId": "W04",
+    "productId": "PR11",
+    "unitsAvailable": 7
+  },
+  {
+    "warehouseId": "W04",
+    "productId": "PR12",
+    "unitsAvailable": 0
+  },
+  {
+    "warehouseId": "W04",
+    "productId": "PR13",
+    "unitsAvailable": 7
+  },
+  {
+    "warehouseId": "W04",
+    "productId": "PR14",
+    "unitsAvailable": 5
+  },
+  {
+    "warehouseId": "W04",
+    "productId": "PR15",
+    "unitsAvailable": 0
+  },
+  {
+    "warehouseId": "W04",
+    "productId": "PR16",
+    "unitsAvailable": 0
+  },
+  {
+    "warehouseId": "W04",
+    "productId": "PR17",
+    "unitsAvailable": 35
+  },
+  {
+    "warehouseId": "W04",
+    "productId": "PR18",
+    "unitsAvailable": 6
+  },
+  {
+    "warehouseId": "W04",
+    "productId": "PR19",
+    "unitsAvailable": 5
+  },
+  {
+    "warehouseId": "W04",
+    "productId": "PR20",
+    "unitsAvailable": 52
+  },
+  {
+    "warehouseId": "W05",
+    "productId": "PR01",
+    "unitsAvailable": 39
+  },
+  {
+    "warehouseId": "W05",
+    "productId": "PR02",
+    "unitsAvailable": 16
+  },
+  {
+    "warehouseId": "W05",
+    "productId": "PR03",
+    "unitsAvailable": 0
+  },
+  {
+    "warehouseId": "W05",
+    "productId": "PR04",
+    "unitsAvailable": 18
+  },
+  {
+    "warehouseId": "W05",
+    "productId": "PR05",
+    "unitsAvailable": 6
+  },
+  {
+    "warehouseId": "W05",
+    "productId": "PR06",
+    "unitsAvailable": 23
+  },
+  {
+    "warehouseId": "W05",
+    "productId": "PR07",
+    "unitsAvailable": 36
+  },
+  {
+    "warehouseId": "W05",
+    "productId": "PR08",
+    "unitsAvailable": 36
+  },
+  {
+    "warehouseId": "W05",
+    "productId": "PR09",
+    "unitsAvailable": 23
+  },
+  {
+    "warehouseId": "W05",
+    "productId": "PR10",
+    "unitsAvailable": 9
+  },
+  {
+    "warehouseId": "W05",
+    "productId": "PR11",
+    "unitsAvailable": 20
+  },
+  {
+    "warehouseId": "W05",
+    "productId": "PR12",
+    "unitsAvailable": 9
+  },
+  {
+    "warehouseId": "W05",
+    "productId": "PR13",
+    "unitsAvailable": 31
+  },
+  {
+    "warehouseId": "W05",
+    "productId": "PR14",
+    "unitsAvailable": 19
+  },
+  {
+    "warehouseId": "W05",
+    "productId": "PR15",
+    "unitsAvailable": 13
+  },
+  {
+    "warehouseId": "W05",
+    "productId": "PR16",
+    "unitsAvailable": 59
+  },
+  {
+    "warehouseId": "W05",
+    "productId": "PR17",
+    "unitsAvailable": 44
+  },
+  {
+    "warehouseId": "W05",
+    "productId": "PR18",
+    "unitsAvailable": 18
+  },
+  {
+    "warehouseId": "W05",
+    "productId": "PR19",
+    "unitsAvailable": 0
+  },
+  {
+    "warehouseId": "W05",
+    "productId": "PR20",
+    "unitsAvailable": 56
+  },
+  {
+    "warehouseId": "W06",
+    "productId": "PR01",
+    "unitsAvailable": 58
+  },
+  {
+    "warehouseId": "W06",
+    "productId": "PR02",
+    "unitsAvailable": 18
+  },
+  {
+    "warehouseId": "W06",
+    "productId": "PR03",
+    "unitsAvailable": 6
+  },
+  {
+    "warehouseId": "W06",
+    "productId": "PR04",
+    "unitsAvailable": 44
+  },
+  {
+    "warehouseId": "W06",
+    "productId": "PR05",
+    "unitsAvailable": 45
+  },
+  {
+    "warehouseId": "W06",
+    "productId": "PR06",
+    "unitsAvailable": 18
+  },
+  {
+    "warehouseId": "W06",
+    "productId": "PR07",
+    "unitsAvailable": 0
+  },
+  {
+    "warehouseId": "W06",
+    "productId": "PR08",
+    "unitsAvailable": 12
+  },
+  {
+    "warehouseId": "W06",
+    "productId": "PR09",
+    "unitsAvailable": 39
+  },
+  {
+    "warehouseId": "W06",
+    "productId": "PR10",
+    "unitsAvailable": 0
+  },
+  {
+    "warehouseId": "W06",
+    "productId": "PR11",
+    "unitsAvailable": 42
+  },
+  {
+    "warehouseId": "W06",
+    "productId": "PR12",
+    "unitsAvailable": 33
+  },
+  {
+    "warehouseId": "W06",
+    "productId": "PR13",
+    "unitsAvailable": 26
+  },
+  {
+    "warehouseId": "W06",
+    "productId": "PR14",
+    "unitsAvailable": 0
+  },
+  {
+    "warehouseId": "W06",
+    "productId": "PR15",
+    "unitsAvailable": 53
+  },
+  {
+    "warehouseId": "W06",
+    "productId": "PR16",
+    "unitsAvailable": 60
+  },
+  {
+    "warehouseId": "W06",
+    "productId": "PR17",
+    "unitsAvailable": 18
+  },
+  {
+    "warehouseId": "W06",
+    "productId": "PR18",
+    "unitsAvailable": 0
+  },
+  {
+    "warehouseId": "W06",
+    "productId": "PR19",
+    "unitsAvailable": 32
+  },
+  {
+    "warehouseId": "W06",
+    "productId": "PR20",
+    "unitsAvailable": 0
+  }
+]

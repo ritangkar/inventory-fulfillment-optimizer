@@ -1,0 +1,50 @@
+[
+  {
+    "id": "W01",
+    "name": "Mumbai Distribution Center",
+    "city": "Mumbai",
+    "lat": 19.076,
+    "lon": 72.8777,
+    "capacityUnitsPerDay": 400
+  },
+  {
+    "id": "W02",
+    "name": "Delhi Distribution Center",
+    "city": "Delhi",
+    "lat": 28.7041,
+    "lon": 77.1025,
+    "capacityUnitsPerDay": 450
+  },
+  {
+    "id": "W03",
+    "name": "Bangalore Distribution Center",
+    "city": "Bangalore",
+    "lat": 12.9716,
+    "lon": 77.5946,
+    "capacityUnitsPerDay": 350
+  },
+  {
+    "id": "W04",
+    "name": "Chennai Distribution Center",
+    "city": "Chennai",
+    "lat": 13.0827,
+    "lon": 80.2707,
+    "capacityUnitsPerDay": 300
+  },
+  {
+    "id": "W05",
+    "name": "Kolkata Distribution Center",
+    "city": "Kolkata",
+    "lat": 22.5726,
+    "lon": 88.3639,
+    "capacityUnitsPerDay": 250
+  },
+  {
+    "id": "W06",
+    "name": "Hyderabad Distribution Center",
+    "city": "Hyderabad",
+    "lat": 17.385,
+    "lon": 78.4867,
+    "capacityUnitsPerDay": 300
+  }
+]
